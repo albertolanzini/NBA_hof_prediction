@@ -1,0 +1,1 @@
+Jupyter Notebook containing the analysis of a dataset containing NBA players' data to predict who, out of the current NBA players, will turn out to be basketball Hall of Famers by selecting and fine-tuning an XGBoost model.
